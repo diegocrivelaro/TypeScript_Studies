@@ -1,5 +1,6 @@
 {
-  "dependencies": {
-    "typescript": "4.9.4"
+  "devDependencies": {
+    "typescript": "4.9.4",
+    "@type-challenges/utils": "0.1.1"
   }
 }
